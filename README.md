@@ -46,7 +46,7 @@ Run the remaining cells to:
 
 Calculate descriptive statistics for the report's Basic Questions section.
 
-Compute the Welch t-test statistics, p-values, and 95% confidence intervals for P1 (Crowded vs Open boxes) and P2 (First-touch vs Delayed shots).
+Compute the Welch t-test statistics, p-values, and 95% confidence intervals for P1 (Crowded vs Open boxes) and P2 (First-touch vs Delayed shots) and P3(shots vs distance).
 
 Generate and export the .pdf plots.
 
